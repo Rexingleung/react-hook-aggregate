@@ -1,11 +1,11 @@
-# `react-hook-lib`
+# `react-hook-aggregate`
 
 > TODO: description
 
 ## Usage
 
 ```
-const reactHookLib = require('react-hook-lib');
-reactHookLib('abc');
+const reactHookAggregate = require('react-hook-aggregate');
+reactHookAggregate('abc');
 // TODO: DEMONSTRATE API
 ```
