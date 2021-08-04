@@ -25,6 +25,10 @@ composer.lock
 # Project Specific
 /node_modules
 *.log
+<<<<<<< HEAD
+=======
+/lib
+>>>>>>> 4d96e073155cc03e6290f499b598ca9dd884377d
 tmp
 .changelog
 coverage/
